@@ -30,6 +30,6 @@ xlsx_canary.py - Extract .xlsx canaries<br>
 
 ## Additional Details 
 
-The PoCs will work agaisn't multiple vendors canary solutions 
+The PoCs will work against multiple vendors canary solutions 
 
 Extension of this Gist from 2022 - https://gist.github.com/HackingLZ/0285d248f648f5dd216758c3fbf78c97
