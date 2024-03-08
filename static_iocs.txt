@@ -1,0 +1,11 @@
+^[a-z]+-[a-z]+-\d{4}\.[a-z]+\.(?:example)\.com$
+^[a-z]+-[a-z]+-\d{4}\.\w+\.\w+$
+whiteclouddrive.com
+canarytokens.com
+canarytokens.net
+allsafelink.com
+52.18.63.80
+c5b88def-64d6-4276-aa23-feab7321ced5
+Amazon Account ID: 706555150306
+Amazon Account ID: 992382622183
+
