@@ -1,0 +1,6 @@
+Instead of rebuilding an epic tool PDF 
+https://blog.didierstevens.com/programs/pdf-tools/
+https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdf-parser.py
+python3 pdf-parser.py -O --filter evil.pdf | egrep -o "(?i)https?://[a-zA-Z0-9./?=_-]+(:[0-9]+)?"
+
+

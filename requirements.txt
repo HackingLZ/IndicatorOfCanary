@@ -1,0 +1,4 @@
+colorama
+python-docx
+python-pptx
+openpyxl
