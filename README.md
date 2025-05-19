@@ -5,7 +5,7 @@ The Indicator of Canary is a collection of PoCs from research on identifying can
 
 There are other examples of tools on GitHub that perform regex searches for *.canarytoken.org; however, this doesn't represent a robust strategy for self-hosted or other vendors' canary documents. These scripts aim to raise known bad as red and potentially suspect as yellow, along with metadata to compare to other documents in the environment. 
 
-Also included is a script to convert AWS Access keys to Account IDs to emphasize further that if you have access to multiple access keys, you can potentially find outliers with uncommon account IDs, which might require additional scruinitiy to validate.  Canary providers also often use the same account ID across their canary fleet. 
+Also included is a script to convert AWS Access keys to Account IDs to emphasize further that if you have access to multiple access keys, you can potentially find outliers with uncommon account IDs, which might require additional scrutiny to validate.  Canary providers also often use the same account ID across their canary fleet. 
 
 ## Files
 
