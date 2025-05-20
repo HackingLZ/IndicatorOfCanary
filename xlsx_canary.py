@@ -102,7 +102,7 @@ def main():
             "md5": md5,
             "sha1": sha1
         }
-        write_to_json(args.json, args.input.split('/')[-1], data_to_export)
+        write_to_json(args.json, args.input, data_to_export)
         print(f"\nResults have been written to {args.json}")
 
 if __name__ == "__main__":
